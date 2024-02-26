@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dali Fethi Abdellatif</h1>
 <h3 align="center">Embedded Systems Student</h3>
 
-- 🌱 I’m currently learning **Embedded Systems, Computer architectures, Digital Design**
+- 🌱 I’m currently learning **Embedded Systems**
 
 - 📫 How to reach me **abdellatif31dali@gmail.com**
 
