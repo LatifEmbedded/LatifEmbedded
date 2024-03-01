@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dali Fethi Abdellatif</h1>
-<h3 align="center">Embedded Systems Student</h3>
+<h1 align="center">Welcom,This is Dali Fethi Abdellatif</h1>
+<h3 align="center">Embedded Systems</h3>
 
 - 🌱 I’m currently learning **Embedded Systems**
+
+- 💬 Ask me about **Python, Vhdl**
 
 - 📫 How to reach me **abdellatif31dali@gmail.com**
 
@@ -13,4 +15,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=latifembedded&show_icons=true&locale=en&layout=compact" alt="latifembedded" /></p>
