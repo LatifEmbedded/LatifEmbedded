@@ -1,4 +1,4 @@
-<h1 align="center">Welcom,This is Dali Fethi Abdellatif</h1>
+<h1 align="center">Welcome,This is Dali Fethi Abdellatif</h1>
 <h3 align="center">Embedded Systems</h3>
 
 - 🌱 I’m currently learning **Embedded Systems**
