@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Embedded Systems**
 
-- 💬 Ask me about **Python, Vhdl**
+- 💬 Ask me about **Python, Vhdl, Microcontrollers, C**
 
 - 📫 How to reach me **abdellatif31dali@gmail.com**
 
